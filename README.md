@@ -6,11 +6,16 @@ Tecnologias Utilizadas:
 Flask
 Python
 Tabulate
+
+
 Funcionalidades:
 Retorna dados sobre pessoas em formato JSON.
 Apresenta os dados em uma tabela HTML.
+
+
 Como Usar:
 Clone este repositório.
+
 Instale as dependências usando pip install -r requirements.txt.
 Execute o aplicativo com python app.py.
 Acesse http://127.0.0.1:5000/ em seu navegador para visualizar a API.
